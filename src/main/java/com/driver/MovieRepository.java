@@ -1,7 +1,5 @@
 package com.driver;
 
-import com.driver.model.Director;
-import com.driver.model.Movie;
 import org.springframework.stereotype.Repository;
 
 import java.util.HashMap;
